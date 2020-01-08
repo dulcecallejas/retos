@@ -6,10 +6,10 @@ Output: The median as a float or an integer.
 
 Example:
 
-median([1, 2, 3, 4, 5]) == 3
-median([3, 1, 2, 5, 3]) == 3
-median([1, 300, 2, 200, 1]) == 2
-median([3, 6, 20, 99, 10, 15]) == 12.5
+- median([1, 2, 3, 4, 5]) == 3
+- median([3, 1, 2, 5, 3]) == 3
+- median([1, 300, 2, 200, 1]) == 2
+- median([3, 6, 20, 99, 10, 15]) == 12.5
 
 How it is used: The median has usage for Statistics and Probability theory, it has especially significant value for skewed distribution. For example: we want to know average wealth of people from a set of data -- 100 people earn $100 in month and 10 people earn $1,000,000. If we average it out, we get $91,000. This is weird value and does nothing to show us the real picture. In this case the median would give to us more useful value and a better picture. The Article at Wikipedia.
 
