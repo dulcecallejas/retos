@@ -1,4 +1,7 @@
-# retos
-En este repositorio podemos encontrar ejercicios y retos para las practicas
+# 🏆️ Retos
+En este repositorio podemos encontrar ejercicios y retos para las practicas.
 
-- 1.- Reto básico [Suma de 2 números enteros](https://github.com/hackademymx/retos/blob/master/suma.md)
+|   Nivel       |   Nombre                             | Ubicación                                            |
+| :------------ | :----------------------------------- | :--------------------------------------------------: |
+|  Básico       | `Suma de 2 números enteros`          | [Ir](/suma.md)                                       |
+|  Básico       | `Suma de los elementos de un array`  | [Ir](/array_sum/array_sum.md)                        |
