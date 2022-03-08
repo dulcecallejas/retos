@@ -5,3 +5,4 @@ En este repositorio podemos encontrar ejercicios y retos para las practicas.
 | :------------ | :----------------------------------- | :--------------------------------------------------: |
 |  Básico       | `Suma de 2 números enteros`          | [Ir](/suma.md)                                       |
 |  Básico       | `Suma de los elementos de un array`  | [Ir](/array_sum/array_sum.md)                        |
+|  Intermedio   | `Muéstrame un animal!`               | [Ir](/animal-game-ascii/animal-game-ascii.md)        |
